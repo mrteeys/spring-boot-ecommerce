@@ -32,6 +32,8 @@ dependencies {
     testImplementation 'org.springframework.boot:spring-boot-starter-test:2.7.12-SNAPSHOT'
     implementation 'javax.xml.bind:jaxb-api:2.3.1'
     implementation 'org.glassfish.jaxb:jaxb-runtime:2.3.7'
+    implementation 'javax.persistence:javax.persistence-api:2.2'
+
 }
 
 group = 'com.luv2code'
